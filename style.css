@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins';font-size: 18px;
+}
+
+h1 {
+    color: rgb(118, 51, 227);
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    color: rgb(27, 101, 154);
+
+}
+
+li {
+    color: rgb(27, 101, 154);
+    font-size: 12px;
+}
